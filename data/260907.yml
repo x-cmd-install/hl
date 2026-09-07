@@ -5,7 +5,7 @@ about:
   head: 90b9a8d
   archived: false
   latestVersion: "v0.36.3"
-  collectedAt: 2026-09-07T05:02:16Z
+  collectedAt: 2026-09-07T19:29:23Z
 timeline:
   created: 2020-08-04
   lastCommit: 2026-09-07
@@ -88,7 +88,7 @@ total:
   commit: 1754
 ---
 path: /home/runner/.x-repo/github.com/pamburus/hl
-collectedAt: 2026-09-07T05:02:19Z
+collectedAt: 2026-09-07T19:29:25Z
 loc:
   Rust:
     code: 40623
@@ -169,7 +169,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:02:19+00:00
+  collectedAt: 2026-09-07T19:29:26+00:00
   platform:
     darwin/arm64:
       name:  hl-macos-arm64.tar.gz
