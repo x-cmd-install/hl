@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.36.3"
   latestRelease: "v0.36.3"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T05:22:14Z
+  collectedAt: 2026-09-09T19:21:32Z
 timeline:
   created: 2020-08-04
   lastCommit: 2026-09-07
@@ -92,7 +92,7 @@ total:
   commit: 1754
 ---
 path: /home/runner/.x-repo/github.com/pamburus/hl
-collectedAt: 2026-09-09T05:22:18Z
+collectedAt: 2026-09-09T19:21:43Z
 loc:
   Rust:
     code: 40623
