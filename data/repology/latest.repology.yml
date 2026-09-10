@@ -1,0 +1,148 @@
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: hl
+  binname: hl
+  visiblename: hl
+  version: 0.36.3
+  origversion: 0.36.3-1
+  status: newest
+  summary: A fast and powerful log viewer and processor
+  licenses:
+    - MIT
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: hl
+  binname: hl
+  visiblename: hl
+  version: 0.36.3
+  origversion: 0.36.3-1
+  status: newest
+  summary: A fast and powerful log viewer and processor
+  licenses:
+    - MIT
+- repo: altsisyphus
+  srcname: hl
+  binnames:
+    - hl
+    - hl-debuginfo
+  visiblename: hl
+  version: "1.93"
+  origversion: 1.93-alt1
+  status: untrusted
+  summary: Command-line text colorization tool using regular expressions
+  maintainers:
+    - lav@altlinux.org
+  licenses:
+    - GPL-3.0-or-later
+  categories:
+    - Text tools
+- repo: arch
+  subrepo: extra
+  srcname: hl
+  binname: hl
+  visiblename: hl
+  version: 0.36.3
+  origversion: 0.36.3-1
+  status: newest
+  summary: A fast and powerful log viewer and processor
+  licenses:
+    - MIT
+- repo: aur
+  srcname: hl-git
+  binname: hl-git
+  visiblename: hl-git
+  version: "1.69"
+  origversion: 1.69-4
+  status: rolling
+  summary: Highlight (colorize) text data using regular expressions
+  maintainers:
+    - fallback-mnt-aur@repology
+  licenses:
+    - GPL3
+- repo: freebsd
+  srcname: sysutils/hl
+  binname: hl
+  visiblename: sysutils/hl
+  version: 0.36.1
+  origversion: 0.36.1_3
+  status: outdated
+  summary: JSON and logfmt viewer/processor
+  maintainers:
+    - marcel@herrbischoff.com
+  categories:
+    - sysutils
+- repo: homebrew
+  srcname: hl
+  visiblename: hl
+  version: 0.36.3
+  origversion: null
+  status: newest
+  summary: Fast and powerful log viewer and processor
+- repo: homebrew
+  srcname: hl
+  visiblename: hl
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Fast and powerful log viewer and processor
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: hl
+  binname: hl
+  visiblename: hl
+  version: 0.36.3
+  origversion: 0.36.3-1
+  status: newest
+  summary: A fast and powerful log viewer and processor
+  licenses:
+    - MIT
+- repo: msys2_clang64
+  srcname: mingw-w64-hl
+  binname: mingw-w64-clang-x86_64-hl
+  visiblename: mingw-w64-clang-x86_64-hl
+  version: 0.36.3
+  origversion: 0.36.3-2
+  status: newest
+  summary: A fast and powerful log viewer and processor (mingw-w64)
+  licenses:
+    - spdx:MIT
+- repo: msys2_clangarm64
+  srcname: mingw-w64-hl
+  binname: mingw-w64-clang-aarch64-hl
+  visiblename: mingw-w64-clang-aarch64-hl
+  version: 0.36.3
+  origversion: 0.36.3-2
+  status: newest
+  summary: A fast and powerful log viewer and processor (mingw-w64)
+  licenses:
+    - spdx:MIT
+- repo: msys2_ucrt64
+  srcname: mingw-w64-hl
+  binname: mingw-w64-ucrt-x86_64-hl
+  visiblename: mingw-w64-ucrt-x86_64-hl
+  version: 0.36.3
+  origversion: 0.36.3-2
+  status: newest
+  summary: A fast and powerful log viewer and processor (mingw-w64)
+  licenses:
+    - spdx:MIT
+- repo: parabola
+  subrepo: extra
+  srcname: hl
+  binname: hl
+  visiblename: hl
+  version: 0.36.3
+  origversion: 0.36.3-1
+  status: newest
+  summary: A fast and powerful log viewer and processor
+  licenses:
+    - MIT
+- repo: scoop
+  subrepo: main
+  binname: hl
+  visiblename: hl
+  version: 0.36.3
+  origversion: null
+  status: newest
+  licenses:
+    - MIT
