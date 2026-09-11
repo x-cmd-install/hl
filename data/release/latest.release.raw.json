@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 3581267,
       "digest": "sha256:b8e9de61f003a8879d619adce5b3253021678888ee4b616b7cda756c4d4c84b2",
-      "download_count": 2457,
+      "download_count": 2477,
       "created_at": "2026-06-12T21:54:45Z",
       "updated_at": "2026-06-12T21:54:45Z",
       "browser_download_url": "https://github.com/pamburus/hl/releases/download/v0.36.3/hl-linux-x86_64-gnu.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 3651358,
       "digest": "sha256:28f9330d4b84339c84d7d2053480c003bdca0cc98247171185ebb1df90b637d0",
-      "download_count": 3183,
+      "download_count": 3186,
       "created_at": "2026-06-12T21:55:49Z",
       "updated_at": "2026-06-12T21:55:50Z",
       "browser_download_url": "https://github.com/pamburus/hl/releases/download/v0.36.3/hl-linux-x86_64-musl.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 3187682,
       "digest": "sha256:0e72090c62bd6fc13de37691d410312affe6437d04f2eee11814077cb34627f2",
-      "download_count": 391,
+      "download_count": 392,
       "created_at": "2026-06-12T21:57:58Z",
       "updated_at": "2026-06-12T21:57:58Z",
       "browser_download_url": "https://github.com/pamburus/hl/releases/download/v0.36.3/hl-windows.zip"
