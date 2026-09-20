@@ -4,7 +4,7 @@
 
 A fast and powerful log viewer and processor that converts JSON logs or logfmt logs into a clear human-readable format.
 
-![hl](https://repo.x-cmd.io/hl.svg?lang=zh)
+[![x-cmd/install — hl Code Quality Monitoring Repo Card](https://repo.x-cmd.io/hl.svg?lang=zh)](https://x-cmd.com/install/hl)
 
 ## 安装
 
@@ -32,27 +32,27 @@ x install hl
 ## 发布
 
 - **最新版本**: `v0.36.3` (2026-06-12)
-- **最近提交**: 2026-09-14
+- **最近提交**: 2026-09-18
 - **Release 含资产**: 9 个
 
 ## 流行度
 
-- **Star**: 3,289 · **Fork**: 66 · **开放 issue**: 58 · **贡献者**: 13
+- **Star**: 3,290 · **Fork**: 66 · **开放 issue**: 58 · **贡献者**: 13
 
 ## 累计统计
 
-- **发布数**: 127 · **已合并 PR**: 1390 · **开放 PR**: 3 · **已关闭 issue**: 48 · **开放 issue**: 10 · **提交数**: 1764
+- **发布数**: 127 · **已合并 PR**: 1392 · **开放 PR**: 3 · **已关闭 issue**: 48 · **开放 issue**: 10 · **提交数**: 1766
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 44 | 1 | 0 | 0 | 45 |
-| last60d | 2026-07-20 | 0 | 65 | 1 | 0 | 2 | 69 |
-| 90d | 2026-06-20 | 0 | 85 | 1 | 0 | 3 | 87 |
-| last180d | 2026-03-22 | 3 | 164 | 2 | 3 | 5 | 167 |
-| 360d | 2025-09-23 | 17 | 442 | 2 | 13 | 8 | 474 |
-| last720d | 2024-09-28 | 29 | 971 | 2 | 28 | 9 | 1018 |
+| 30d | 2026-08-21 | 0 | 44 | 1 | 0 | 0 | 23 |
+| last60d | 2026-07-22 | 0 | 67 | 1 | 0 | 2 | 63 |
+| 90d | 2026-06-22 | 0 | 85 | 1 | 0 | 3 | 82 |
+| last180d | 2026-03-24 | 3 | 163 | 2 | 3 | 5 | 162 |
+| 360d | 2025-09-25 | 17 | 444 | 2 | 13 | 8 | 453 |
+| last720d | 2024-09-30 | 29 | 970 | 2 | 28 | 9 | 1020 |
 
 ## Release 资产
 
@@ -77,4 +77,4 @@ hl 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T05:19:04Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T05:20:13Z._
