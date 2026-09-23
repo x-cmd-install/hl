@@ -4,7 +4,7 @@
 
 A fast and powerful log viewer and processor that converts JSON logs or logfmt logs into a clear human-readable format.
 
-[![x-cmd/install — hl Code Quality Monitoring Repo Card](https://repo.x-cmd.io/hl.svg)](https://x-cmd.com/install/hl)
+[![x-cmd/install — hl Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/hl.svg)](https://x-cmd.com/install/hl)
 
 ## Install
 
@@ -37,7 +37,7 @@ Total: **48,607** lines of code across **302** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 3,290 · **Forks**: 66 · **Open issues**: 58 · **Contributors**: 13
+- **Stars**: 3,291 · **Forks**: 66 · **Open issues**: 58 · **Contributors**: 13
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **48,607** lines of code across **302** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 49 | 1 | 0 | 0 | 28 |
-| last60d | 2026-07-24 | 0 | 70 | 1 | 0 | 1 | 68 |
-| 90d | 2026-06-24 | 0 | 89 | 1 | 0 | 3 | 87 |
-| last180d | 2026-03-26 | 3 | 168 | 2 | 3 | 5 | 167 |
-| 360d | 2025-09-27 | 17 | 442 | 2 | 13 | 8 | 458 |
-| last720d | 2024-10-02 | 29 | 970 | 2 | 28 | 9 | 1020 |
+| 30d | 2026-08-24 | 0 | 43 | 1 | 0 | 0 | 28 |
+| last60d | 2026-07-25 | 0 | 70 | 1 | 0 | 1 | 68 |
+| 90d | 2026-06-25 | 0 | 89 | 1 | 0 | 3 | 87 |
+| last180d | 2026-03-27 | 3 | 165 | 2 | 3 | 5 | 167 |
+| 360d | 2025-09-28 | 17 | 432 | 2 | 13 | 8 | 458 |
+| last720d | 2024-10-03 | 29 | 969 | 2 | 28 | 9 | 1017 |
 
 ## Release assets
 
@@ -77,4 +77,4 @@ Install metadata for hl lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:23:47Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:22:15Z._
