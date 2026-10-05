@@ -41,18 +41,18 @@ Total: **48,607** lines of code across **302** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 127 · **Merged PRs**: 1403 · **Open PRs**: 3 · **Closed issues**: 48 · **Open issues**: 10 · **Commits**: 1777
+- **Releases**: 127 · **Merged PRs**: 1403 · **Open PRs**: 6 · **Closed issues**: 48 · **Open issues**: 10 · **Commits**: 1777
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-04 | 0 | 26 | 0 | 0 | 0 | 23 |
-| last60d | 2026-08-05 | 0 | 70 | 1 | 0 | 1 | 64 |
-| 90d | 2026-07-06 | 0 | 86 | 1 | 0 | 2 | 84 |
-| last180d | 2026-04-07 | 3 | 163 | 2 | 3 | 5 | 162 |
-| 360d | 2025-10-09 | 16 | 422 | 2 | 13 | 7 | 448 |
-| last720d | 2024-10-14 | 29 | 968 | 2 | 28 | 9 | 1017 |
+| 30d | 2026-09-05 | 0 | 26 | 3 | 0 | 0 | 23 |
+| last60d | 2026-08-06 | 0 | 70 | 4 | 0 | 0 | 64 |
+| 90d | 2026-07-07 | 0 | 86 | 4 | 0 | 2 | 84 |
+| last180d | 2026-04-08 | 3 | 163 | 5 | 3 | 5 | 162 |
+| 360d | 2025-10-10 | 16 | 419 | 5 | 13 | 7 | 448 |
+| last720d | 2024-10-15 | 29 | 966 | 5 | 28 | 9 | 1015 |
 
 ## Release assets
 
@@ -77,4 +77,4 @@ Install metadata for hl lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261004.yml` · 2026-10-04T06:14:16Z._
+_Snapshot: `data/card/261005.yml` · 2026-10-05T05:57:48Z._
