@@ -32,27 +32,27 @@ Total: **48,607** lines of code across **302** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.36.3` (2026-06-12)
-- **Last commit**: 2026-10-12
+- **Last commit**: 2026-10-16
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 3,304 · **Forks**: 68 · **Open issues**: 58 · **Contributors**: 13
+- **Stars**: 3,306 · **Forks**: 72 · **Open issues**: 58 · **Contributors**: 13
 
 ## Totals (cumulative)
 
-- **Releases**: 127 · **Merged PRs**: 1409 · **Open PRs**: 3 · **Closed issues**: 48 · **Open issues**: 10 · **Commits**: 1783
+- **Releases**: 127 · **Merged PRs**: 1411 · **Open PRs**: 3 · **Closed issues**: 48 · **Open issues**: 10 · **Commits**: 1785
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-16 | 0 | 19 | 0 | 0 | 0 | 19 |
-| last60d | 2026-08-17 | 0 | 63 | 1 | 0 | 0 | 64 |
-| 90d | 2026-07-18 | 0 | 87 | 1 | 0 | 2 | 88 |
-| last180d | 2026-04-19 | 2 | 161 | 1 | 3 | 5 | 161 |
-| 360d | 2025-10-21 | 16 | 419 | 2 | 13 | 6 | 449 |
-| last720d | 2024-10-26 | 29 | 954 | 2 | 28 | 9 | 1005 |
+| 30d | 2026-09-17 | 0 | 21 | 0 | 0 | 0 | 21 |
+| last60d | 2026-08-18 | 0 | 65 | 1 | 0 | 0 | 66 |
+| 90d | 2026-07-19 | 0 | 89 | 1 | 0 | 2 | 90 |
+| last180d | 2026-04-20 | 2 | 159 | 1 | 3 | 5 | 163 |
+| 360d | 2025-10-22 | 16 | 421 | 2 | 13 | 6 | 451 |
+| last720d | 2024-10-27 | 29 | 956 | 2 | 28 | 9 | 1003 |
 
 ## Release assets
 
@@ -77,4 +77,4 @@ Install metadata for hl lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261016.yml` · 2026-10-16T04:51:57Z._
+_Snapshot: `data/card/261017.yml` · 2026-10-17T04:42:30Z._
