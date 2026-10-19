@@ -32,27 +32,27 @@ Total: **48,607** lines of code across **302** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.36.3` (2026-06-12)
-- **Last commit**: 2026-10-16
+- **Last commit**: 2026-10-19
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 3,307 · **Forks**: 74 · **Open issues**: 58 · **Contributors**: 13
+- **Stars**: 3,308 · **Forks**: 76 · **Open issues**: 58 · **Contributors**: 13
 
 ## Totals (cumulative)
 
-- **Releases**: 127 · **Merged PRs**: 1411 · **Open PRs**: 3 · **Closed issues**: 48 · **Open issues**: 10 · **Commits**: 1785
+- **Releases**: 127 · **Merged PRs**: 1416 · **Open PRs**: 3 · **Closed issues**: 48 · **Open issues**: 10 · **Commits**: 1790
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-18 | 0 | 19 | 0 | 0 | 0 | 14 |
-| last60d | 2026-08-19 | 0 | 65 | 1 | 0 | 0 | 47 |
-| 90d | 2026-07-20 | 0 | 86 | 1 | 0 | 2 | 87 |
-| last180d | 2026-04-21 | 2 | 159 | 1 | 3 | 5 | 158 |
-| 360d | 2025-10-23 | 16 | 421 | 2 | 13 | 6 | 445 |
-| last720d | 2024-10-28 | 29 | 954 | 2 | 28 | 9 | 1003 |
+| 30d | 2026-09-19 | 0 | 24 | 0 | 0 | 0 | 19 |
+| last60d | 2026-08-20 | 0 | 70 | 1 | 0 | 0 | 52 |
+| 90d | 2026-07-21 | 0 | 91 | 1 | 0 | 2 | 92 |
+| last180d | 2026-04-22 | 2 | 164 | 1 | 3 | 5 | 163 |
+| 360d | 2025-10-24 | 16 | 423 | 2 | 13 | 6 | 450 |
+| last720d | 2024-10-29 | 29 | 954 | 2 | 28 | 9 | 1008 |
 
 ## Release assets
 
@@ -77,4 +77,4 @@ Install metadata for hl lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261018.yml` · 2026-10-18T04:47:17Z._
+_Snapshot: `data/card/261019.yml` · 2026-10-19T05:07:15Z._
