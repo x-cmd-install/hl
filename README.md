@@ -14,11 +14,11 @@ x install hl
 
 ## Code insight
 
-Total: **48,799** lines of code across **308** files in the top 5 languages.
+Total: **49,100** lines of code across **308** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 40,811 | 1,956 | 6,484 | 168 |
+| Rust | 41,112 | 1,964 | 6,514 | 168 |
 | Toml | 2,144 | 463 | 559 | 64 |
 | Svg | 2,056 | 2 | 0 | 5 |
 | Json | 1,438 | 0 | 1 | 8 |
@@ -32,27 +32,27 @@ Total: **48,799** lines of code across **308** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.36.4` (2026-10-19)
-- **Last commit**: 2026-10-19
+- **Last commit**: 2026-10-21
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 3,311 · **Forks**: 78 · **Open issues**: 60 · **Contributors**: 13
+- **Stars**: 3,312 · **Forks**: 68 · **Open issues**: 64 · **Contributors**: 13
 
 ## Totals (cumulative)
 
-- **Releases**: 128 · **Merged PRs**: 1421 · **Open PRs**: 3 · **Closed issues**: 51 · **Open issues**: 9 · **Commits**: 1797
+- **Releases**: 128 · **Merged PRs**: 1428 · **Open PRs**: 3 · **Closed issues**: 53 · **Open issues**: 11 · **Commits**: 1804
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 1 | 28 | 1 | 1 | 1 | 26 |
-| last60d | 2026-08-21 | 1 | 73 | 1 | 1 | 1 | 59 |
-| 90d | 2026-07-22 | 1 | 96 | 1 | 3 | 1 | 99 |
-| last180d | 2026-04-23 | 3 | 168 | 1 | 6 | 4 | 170 |
-| 360d | 2025-10-25 | 17 | 425 | 2 | 16 | 5 | 457 |
-| last720d | 2024-10-30 | 29 | 957 | 2 | 31 | 8 | 1008 |
+| 30d | 2026-09-21 | 1 | 30 | 1 | 3 | 3 | 33 |
+| last60d | 2026-08-22 | 1 | 80 | 1 | 3 | 3 | 66 |
+| 90d | 2026-07-23 | 1 | 103 | 1 | 5 | 3 | 106 |
+| last180d | 2026-04-24 | 3 | 173 | 1 | 8 | 6 | 177 |
+| 360d | 2025-10-26 | 17 | 432 | 2 | 18 | 7 | 464 |
+| last720d | 2024-10-31 | 29 | 964 | 2 | 33 | 10 | 1013 |
 
 ## Release assets
 
@@ -77,4 +77,4 @@ Install metadata for hl lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261020.yml` · 2026-10-20T05:15:36Z._
+_Snapshot: `data/card/261021.yml` · 2026-10-21T05:08:51Z._
