@@ -14,12 +14,12 @@ x install hl
 
 ## Code insight
 
-Total: **49,100** lines of code across **308** files in the top 5 languages.
+Total: **49,201** lines of code across **308** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 41,112 | 1,964 | 6,514 | 168 |
-| Toml | 2,144 | 463 | 559 | 64 |
+| Rust | 41,210 | 1,967 | 6,535 | 168 |
+| Toml | 2,147 | 463 | 560 | 64 |
 | Svg | 2,056 | 2 | 0 | 5 |
 | Json | 1,438 | 0 | 1 | 8 |
 | Yaml | 786 | 221 | 214 | 63 |
@@ -31,42 +31,42 @@ Total: **49,100** lines of code across **308** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.36.4` (2026-10-19)
+- **Latest**: `v0.36.5` (2026-10-21)
 - **Last commit**: 2026-10-21
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 3,312 · **Forks**: 68 · **Open issues**: 64 · **Contributors**: 13
+- **Stars**: 3,312 · **Forks**: 67 · **Open issues**: 64 · **Contributors**: 13
 
 ## Totals (cumulative)
 
-- **Releases**: 128 · **Merged PRs**: 1428 · **Open PRs**: 3 · **Closed issues**: 53 · **Open issues**: 11 · **Commits**: 1804
+- **Releases**: 129 · **Merged PRs**: 1443 · **Open PRs**: 3 · **Closed issues**: 54 · **Open issues**: 10 · **Commits**: 1809
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 1 | 30 | 1 | 3 | 3 | 33 |
-| last60d | 2026-08-22 | 1 | 80 | 1 | 3 | 3 | 66 |
-| 90d | 2026-07-23 | 1 | 103 | 1 | 5 | 3 | 106 |
-| last180d | 2026-04-24 | 3 | 173 | 1 | 8 | 6 | 177 |
-| 360d | 2025-10-26 | 17 | 432 | 2 | 18 | 7 | 464 |
-| last720d | 2024-10-31 | 29 | 964 | 2 | 33 | 10 | 1013 |
+| 30d | 2026-09-22 | 2 | 45 | 1 | 4 | 2 | 38 |
+| last60d | 2026-08-23 | 2 | 95 | 1 | 4 | 2 | 71 |
+| 90d | 2026-07-24 | 2 | 116 | 1 | 5 | 2 | 111 |
+| last180d | 2026-04-25 | 4 | 188 | 1 | 9 | 5 | 182 |
+| 360d | 2025-10-27 | 18 | 447 | 2 | 19 | 6 | 469 |
+| last720d | 2024-11-01 | 30 | 978 | 2 | 34 | 9 | 1018 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [hl-linux-arm64-gnu.tar.gz](https://github.com/pamburus/hl/releases/download/v0.36.4/hl-linux-arm64-gnu.tar.gz) | 3.2 MiB | `native/linux/arm64/glibc` |
-| [hl-linux-arm64-musl.tar.gz](https://github.com/pamburus/hl/releases/download/v0.36.4/hl-linux-arm64-musl.tar.gz) | 3.2 MiB | `native/linux/arm64/musl` |
-| [hl-linux-x86_64-gnu.tar.gz](https://github.com/pamburus/hl/releases/download/v0.36.4/hl-linux-x86_64-gnu.tar.gz) | 3.4 MiB | `native/linux/x64/glibc` |
-| [hl-linux-x86_64-musl.tar.gz](https://github.com/pamburus/hl/releases/download/v0.36.4/hl-linux-x86_64-musl.tar.gz) | 3.5 MiB | `native/linux/x64/musl` |
-| [hl-macos-arm64.tar.gz](https://github.com/pamburus/hl/releases/download/v0.36.4/hl-macos-arm64.tar.gz) | 2.9 MiB | `native/darwin/arm64` |
-| [hl-macos-x86_64.tar.gz](https://github.com/pamburus/hl/releases/download/v0.36.4/hl-macos-x86_64.tar.gz) | 3.2 MiB | `native/darwin/x64` |
-| [hl-macos.tar.gz](https://github.com/pamburus/hl/releases/download/v0.36.4/hl-macos.tar.gz) | 6.1 MiB | `native/darwin/x64` |
-| [hl-windows-arm64.zip](https://github.com/pamburus/hl/releases/download/v0.36.4/hl-windows-arm64.zip) | 2.8 MiB | `native/win/arm64` |
-| [hl-windows.zip](https://github.com/pamburus/hl/releases/download/v0.36.4/hl-windows.zip) | 3.0 MiB | `native/win/x64` |
+| [hl-linux-arm64-gnu.tar.gz](https://github.com/pamburus/hl/releases/download/v0.36.5/hl-linux-arm64-gnu.tar.gz) | 3.2 MiB | `native/linux/arm64/glibc` |
+| [hl-linux-arm64-musl.tar.gz](https://github.com/pamburus/hl/releases/download/v0.36.5/hl-linux-arm64-musl.tar.gz) | 3.2 MiB | `native/linux/arm64/musl` |
+| [hl-linux-x86_64-gnu.tar.gz](https://github.com/pamburus/hl/releases/download/v0.36.5/hl-linux-x86_64-gnu.tar.gz) | 3.4 MiB | `native/linux/x64/glibc` |
+| [hl-linux-x86_64-musl.tar.gz](https://github.com/pamburus/hl/releases/download/v0.36.5/hl-linux-x86_64-musl.tar.gz) | 3.5 MiB | `native/linux/x64/musl` |
+| [hl-macos-arm64.tar.gz](https://github.com/pamburus/hl/releases/download/v0.36.5/hl-macos-arm64.tar.gz) | 2.9 MiB | `native/darwin/arm64` |
+| [hl-macos-x86_64.tar.gz](https://github.com/pamburus/hl/releases/download/v0.36.5/hl-macos-x86_64.tar.gz) | 3.2 MiB | `native/darwin/x64` |
+| [hl-macos.tar.gz](https://github.com/pamburus/hl/releases/download/v0.36.5/hl-macos.tar.gz) | 6.1 MiB | `native/darwin/x64` |
+| [hl-windows-arm64.zip](https://github.com/pamburus/hl/releases/download/v0.36.5/hl-windows-arm64.zip) | 2.8 MiB | `native/win/arm64` |
+| [hl-windows.zip](https://github.com/pamburus/hl/releases/download/v0.36.5/hl-windows.zip) | 3.0 MiB | `native/win/x64` |
 
 ## Improve this data
 
@@ -77,4 +77,4 @@ Install metadata for hl lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261021.yml` · 2026-10-21T05:08:51Z._
+_Snapshot: `data/card/261022.yml` · 2026-10-22T05:07:54Z._

@@ -14,12 +14,12 @@ x install hl
 
 ## 代码洞察
 
-合计: **49,100** 行代码（覆盖前 5 种语言、共 **308** 个文件）。
+合计: **49,201** 行代码（覆盖前 5 种语言、共 **308** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 41,112 | 1,964 | 6,514 | 168 |
-| Toml | 2,144 | 463 | 559 | 64 |
+| Rust | 41,210 | 1,967 | 6,535 | 168 |
+| Toml | 2,147 | 463 | 560 | 64 |
 | Svg | 2,056 | 2 | 0 | 5 |
 | Json | 1,438 | 0 | 1 | 8 |
 | Yaml | 786 | 221 | 214 | 63 |
@@ -31,42 +31,42 @@ x install hl
 
 ## 发布
 
-- **最新版本**: `v0.36.4` (2026-10-19)
+- **最新版本**: `v0.36.5` (2026-10-21)
 - **最近提交**: 2026-10-21
 - **Release 含资产**: 9 个
 
 ## 流行度
 
-- **Star**: 3,312 · **Fork**: 68 · **开放 issue**: 64 · **贡献者**: 13
+- **Star**: 3,312 · **Fork**: 67 · **开放 issue**: 64 · **贡献者**: 13
 
 ## 累计统计
 
-- **发布数**: 128 · **已合并 PR**: 1428 · **开放 PR**: 3 · **已关闭 issue**: 53 · **开放 issue**: 11 · **提交数**: 1804
+- **发布数**: 129 · **已合并 PR**: 1443 · **开放 PR**: 3 · **已关闭 issue**: 54 · **开放 issue**: 10 · **提交数**: 1809
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 1 | 30 | 1 | 3 | 3 | 33 |
-| last60d | 2026-08-22 | 1 | 80 | 1 | 3 | 3 | 66 |
-| 90d | 2026-07-23 | 1 | 103 | 1 | 5 | 3 | 106 |
-| last180d | 2026-04-24 | 3 | 173 | 1 | 8 | 6 | 177 |
-| 360d | 2025-10-26 | 17 | 432 | 2 | 18 | 7 | 464 |
-| last720d | 2024-10-31 | 29 | 964 | 2 | 33 | 10 | 1013 |
+| 30d | 2026-09-22 | 2 | 45 | 1 | 4 | 2 | 38 |
+| last60d | 2026-08-23 | 2 | 95 | 1 | 4 | 2 | 71 |
+| 90d | 2026-07-24 | 2 | 116 | 1 | 5 | 2 | 111 |
+| last180d | 2026-04-25 | 4 | 188 | 1 | 9 | 5 | 182 |
+| 360d | 2025-10-27 | 18 | 447 | 2 | 19 | 6 | 469 |
+| last720d | 2024-11-01 | 30 | 978 | 2 | 34 | 9 | 1018 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [hl-linux-arm64-gnu.tar.gz](https://github.com/pamburus/hl/releases/download/v0.36.4/hl-linux-arm64-gnu.tar.gz) | 3.2 MiB | `native/linux/arm64/glibc` |
-| [hl-linux-arm64-musl.tar.gz](https://github.com/pamburus/hl/releases/download/v0.36.4/hl-linux-arm64-musl.tar.gz) | 3.2 MiB | `native/linux/arm64/musl` |
-| [hl-linux-x86_64-gnu.tar.gz](https://github.com/pamburus/hl/releases/download/v0.36.4/hl-linux-x86_64-gnu.tar.gz) | 3.4 MiB | `native/linux/x64/glibc` |
-| [hl-linux-x86_64-musl.tar.gz](https://github.com/pamburus/hl/releases/download/v0.36.4/hl-linux-x86_64-musl.tar.gz) | 3.5 MiB | `native/linux/x64/musl` |
-| [hl-macos-arm64.tar.gz](https://github.com/pamburus/hl/releases/download/v0.36.4/hl-macos-arm64.tar.gz) | 2.9 MiB | `native/darwin/arm64` |
-| [hl-macos-x86_64.tar.gz](https://github.com/pamburus/hl/releases/download/v0.36.4/hl-macos-x86_64.tar.gz) | 3.2 MiB | `native/darwin/x64` |
-| [hl-macos.tar.gz](https://github.com/pamburus/hl/releases/download/v0.36.4/hl-macos.tar.gz) | 6.1 MiB | `native/darwin/x64` |
-| [hl-windows-arm64.zip](https://github.com/pamburus/hl/releases/download/v0.36.4/hl-windows-arm64.zip) | 2.8 MiB | `native/win/arm64` |
-| [hl-windows.zip](https://github.com/pamburus/hl/releases/download/v0.36.4/hl-windows.zip) | 3.0 MiB | `native/win/x64` |
+| [hl-linux-arm64-gnu.tar.gz](https://github.com/pamburus/hl/releases/download/v0.36.5/hl-linux-arm64-gnu.tar.gz) | 3.2 MiB | `native/linux/arm64/glibc` |
+| [hl-linux-arm64-musl.tar.gz](https://github.com/pamburus/hl/releases/download/v0.36.5/hl-linux-arm64-musl.tar.gz) | 3.2 MiB | `native/linux/arm64/musl` |
+| [hl-linux-x86_64-gnu.tar.gz](https://github.com/pamburus/hl/releases/download/v0.36.5/hl-linux-x86_64-gnu.tar.gz) | 3.4 MiB | `native/linux/x64/glibc` |
+| [hl-linux-x86_64-musl.tar.gz](https://github.com/pamburus/hl/releases/download/v0.36.5/hl-linux-x86_64-musl.tar.gz) | 3.5 MiB | `native/linux/x64/musl` |
+| [hl-macos-arm64.tar.gz](https://github.com/pamburus/hl/releases/download/v0.36.5/hl-macos-arm64.tar.gz) | 2.9 MiB | `native/darwin/arm64` |
+| [hl-macos-x86_64.tar.gz](https://github.com/pamburus/hl/releases/download/v0.36.5/hl-macos-x86_64.tar.gz) | 3.2 MiB | `native/darwin/x64` |
+| [hl-macos.tar.gz](https://github.com/pamburus/hl/releases/download/v0.36.5/hl-macos.tar.gz) | 6.1 MiB | `native/darwin/x64` |
+| [hl-windows-arm64.zip](https://github.com/pamburus/hl/releases/download/v0.36.5/hl-windows-arm64.zip) | 2.8 MiB | `native/win/arm64` |
+| [hl-windows.zip](https://github.com/pamburus/hl/releases/download/v0.36.5/hl-windows.zip) | 3.0 MiB | `native/win/x64` |
 
 ## 改进这些数据
 
@@ -77,4 +77,4 @@ hl 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261021.yml` · 2026-10-21T05:08:52Z._
+_数据快照: `data/card/261022.yml` · 2026-10-22T05:07:54Z._
