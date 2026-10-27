@@ -37,7 +37,7 @@ Total: **49,201** lines of code across **308** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 3,313 · **Forks**: 67 · **Open issues**: 79 · **Contributors**: 13
+- **Stars**: 3,314 · **Forks**: 67 · **Open issues**: 79 · **Contributors**: 13
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **49,201** lines of code across **308** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 2 | 70 | 5 | 4 | 17 | 34 |
-| last60d | 2026-08-27 | 2 | 100 | 5 | 4 | 17 | 61 |
-| 90d | 2026-07-28 | 2 | 141 | 5 | 5 | 17 | 104 |
-| last180d | 2026-04-29 | 4 | 213 | 5 | 9 | 20 | 177 |
-| 360d | 2025-10-31 | 18 | 471 | 6 | 19 | 21 | 462 |
-| last720d | 2024-11-05 | 30 | 997 | 6 | 34 | 24 | 1013 |
+| 30d | 2026-09-27 | 2 | 70 | 5 | 4 | 17 | 34 |
+| last60d | 2026-08-28 | 2 | 97 | 5 | 4 | 17 | 61 |
+| 90d | 2026-07-29 | 2 | 141 | 5 | 5 | 17 | 104 |
+| last180d | 2026-04-30 | 4 | 213 | 5 | 9 | 20 | 177 |
+| 360d | 2025-11-01 | 18 | 469 | 6 | 19 | 21 | 462 |
+| last720d | 2024-11-06 | 30 | 995 | 6 | 34 | 24 | 1009 |
 
 ## Release assets
 
@@ -70,12 +70,12 @@ Total: **49,201** lines of code across **308** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **14** distros on [repology.org](https://repology.org/project/hl). **2** are ✅ on the latest upstream release, **9** are ⚠️ on an older version.
+Reported by **14** distros on [repology.org](https://repology.org/project/hl). **5** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Arch | `0.36.3` | ⚠️ outdated |
-| Homebrew | `0.36.5` | ✅ latest |
+| Homebrew | `HEAD` | 🔄 rolling |
 
 ## Improve this data
 
@@ -86,4 +86,4 @@ Install metadata for hl lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261026.yml` · 2026-10-26T05:06:43Z._
+_Snapshot: `data/card/261027.yml` · 2026-10-27T05:28:41Z._
