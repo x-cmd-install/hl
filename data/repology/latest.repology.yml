@@ -1,33 +1,3 @@
-- repo: parabola
-  subrepo: extra
-  srcname: hl
-  binname: hl
-  visiblename: hl
-  version: 0.36.3
-  origversion: 0.36.3-1
-  status: outdated
-  summary: A fast and powerful log viewer and processor
-  licenses:
-    - MIT
-- repo: scoop
-  subrepo: main
-  binname: hl
-  visiblename: hl
-  version: 0.36.5
-  origversion: null
-  status: newest
-  licenses:
-    - MIT
-- repo: msys2_ucrt64
-  srcname: mingw-w64-hl
-  binname: mingw-w64-ucrt-x86_64-hl
-  visiblename: mingw-w64-ucrt-x86_64-hl
-  version: 0.36.5
-  origversion: 0.36.5-1
-  status: newest
-  summary: A fast and powerful log viewer and processor (mingw-w64)
-  licenses:
-    - spdx:MIT
 - repo: altsisyphus
   srcname: hl
   binnames:
@@ -93,6 +63,28 @@
   origversion: null
   status: rolling
   summary: Fast and powerful log viewer and processor
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: hl
+  binname: hl
+  visiblename: hl
+  version: 0.36.3
+  origversion: 0.36.3-1
+  status: outdated
+  summary: A fast and powerful log viewer and processor
+  licenses:
+    - MIT
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: hl
+  binname: hl
+  visiblename: hl
+  version: 0.36.3
+  origversion: 0.36.3-1
+  status: outdated
+  summary: A fast and powerful log viewer and processor
+  licenses:
+    - MIT
 - repo: manjaro_unstable
   subrepo: extra
   srcname: hl
@@ -109,7 +101,7 @@
   binname: mingw-w64-clang-x86_64-hl
   visiblename: mingw-w64-clang-x86_64-hl
   version: 0.36.5
-  origversion: 0.36.5-1
+  origversion: 0.36.5-2
   status: newest
   summary: A fast and powerful log viewer and processor (mingw-w64)
   licenses:
@@ -119,8 +111,38 @@
   binname: mingw-w64-clang-aarch64-hl
   visiblename: mingw-w64-clang-aarch64-hl
   version: 0.36.5
-  origversion: 0.36.5-1
+  origversion: 0.36.5-2
   status: newest
   summary: A fast and powerful log viewer and processor (mingw-w64)
   licenses:
     - spdx:MIT
+- repo: msys2_ucrt64
+  srcname: mingw-w64-hl
+  binname: mingw-w64-ucrt-x86_64-hl
+  visiblename: mingw-w64-ucrt-x86_64-hl
+  version: 0.36.5
+  origversion: 0.36.5-2
+  status: newest
+  summary: A fast and powerful log viewer and processor (mingw-w64)
+  licenses:
+    - spdx:MIT
+- repo: parabola
+  subrepo: extra
+  srcname: hl
+  binname: hl
+  visiblename: hl
+  version: 0.36.3
+  origversion: 0.36.3-1
+  status: outdated
+  summary: A fast and powerful log viewer and processor
+  licenses:
+    - MIT
+- repo: scoop
+  subrepo: main
+  binname: hl
+  visiblename: hl
+  version: 0.36.5
+  origversion: null
+  status: newest
+  licenses:
+    - MIT
