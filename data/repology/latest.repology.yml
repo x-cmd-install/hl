@@ -101,7 +101,7 @@
   binname: mingw-w64-clang-x86_64-hl
   visiblename: mingw-w64-clang-x86_64-hl
   version: 0.36.5
-  origversion: 0.36.5-2
+  origversion: 0.36.5-3
   status: newest
   summary: A fast and powerful log viewer and processor (mingw-w64)
   licenses:
@@ -111,7 +111,7 @@
   binname: mingw-w64-clang-aarch64-hl
   visiblename: mingw-w64-clang-aarch64-hl
   version: 0.36.5
-  origversion: 0.36.5-2
+  origversion: 0.36.5-3
   status: newest
   summary: A fast and powerful log viewer and processor (mingw-w64)
   licenses:
@@ -121,7 +121,7 @@
   binname: mingw-w64-ucrt-x86_64-hl
   visiblename: mingw-w64-ucrt-x86_64-hl
   version: 0.36.5
-  origversion: 0.36.5-2
+  origversion: 0.36.5-3
   status: newest
   summary: A fast and powerful log viewer and processor (mingw-w64)
   licenses:
