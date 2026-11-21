@@ -37,22 +37,22 @@ Total: **49,201** lines of code across **308** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 3,335 · **Forks**: 68 · **Open issues**: 102 · **Contributors**: 13
+- **Stars**: 3,336 · **Forks**: 69 · **Open issues**: 103 · **Contributors**: 13
 
 ## Totals (cumulative)
 
-- **Releases**: 129 · **Merged PRs**: 1509 · **Open PRs**: 5 · **Closed issues**: 54 · **Open issues**: 48 · **Commits**: 1809
+- **Releases**: 129 · **Merged PRs**: 1513 · **Open PRs**: 7 · **Closed issues**: 54 · **Open issues**: 49 · **Commits**: 1809
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 1 | 65 | 3 | 0 | 38 | 0 |
-| last60d | 2026-09-21 | 2 | 111 | 3 | 4 | 40 | 38 |
-| 90d | 2026-08-22 | 2 | 161 | 3 | 4 | 40 | 90 |
-| last180d | 2026-05-24 | 3 | 229 | 3 | 8 | 42 | 155 |
-| 360d | 2025-11-25 | 16 | 480 | 4 | 17 | 44 | 433 |
-| last720d | 2024-11-30 | 30 | 999 | 4 | 33 | 47 | 973 |
+| 30d | 2026-10-22 | 0 | 65 | 5 | 0 | 39 | 0 |
+| last60d | 2026-09-22 | 2 | 115 | 5 | 4 | 41 | 38 |
+| 90d | 2026-08-23 | 2 | 165 | 5 | 4 | 41 | 90 |
+| last180d | 2026-05-25 | 3 | 231 | 5 | 8 | 43 | 155 |
+| 360d | 2025-11-26 | 16 | 484 | 6 | 17 | 45 | 433 |
+| last720d | 2024-12-01 | 30 | 1003 | 6 | 33 | 48 | 973 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for hl lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T08:58:53Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T07:43:50Z._
