@@ -37,22 +37,22 @@ Total: **49,201** lines of code across **308** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 3,343 · **Forks**: 70 · **Open issues**: 122 · **Contributors**: 13
+- **Stars**: 3,342 · **Forks**: 70 · **Open issues**: 126 · **Contributors**: 13
 
 ## Totals (cumulative)
 
-- **Releases**: 129 · **Merged PRs**: 1522 · **Open PRs**: 8 · **Closed issues**: 55 · **Open issues**: 67 · **Commits**: 1809
+- **Releases**: 129 · **Merged PRs**: 1522 · **Open PRs**: 12 · **Closed issues**: 55 · **Open issues**: 71 · **Commits**: 1809
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 0 | 49 | 4 | 1 | 42 | 0 |
-| last60d | 2026-09-27 | 2 | 122 | 6 | 5 | 59 | 34 |
-| 90d | 2026-08-28 | 2 | 149 | 6 | 5 | 59 | 63 |
-| last180d | 2026-05-30 | 3 | 238 | 6 | 9 | 61 | 152 |
-| 360d | 2025-12-01 | 16 | 487 | 7 | 18 | 63 | 427 |
-| last720d | 2024-12-06 | 30 | 999 | 7 | 34 | 66 | 962 |
+| 30d | 2026-10-28 | 0 | 49 | 8 | 1 | 46 | 0 |
+| last60d | 2026-09-28 | 2 | 120 | 10 | 5 | 63 | 34 |
+| 90d | 2026-08-29 | 2 | 149 | 10 | 5 | 63 | 63 |
+| last180d | 2026-05-31 | 3 | 238 | 10 | 9 | 65 | 152 |
+| 360d | 2025-12-02 | 16 | 487 | 11 | 18 | 67 | 427 |
+| last720d | 2024-12-07 | 30 | 999 | 11 | 34 | 70 | 961 |
 
 ## Release assets
 
@@ -68,15 +68,6 @@ Total: **49,201** lines of code across **308** files in the top 5 languages.
 | [hl-windows-arm64.zip](https://github.com/pamburus/hl/releases/download/v0.36.5/hl-windows-arm64.zip) | 2.8 MiB | `native/win/arm64` |
 | [hl-windows.zip](https://github.com/pamburus/hl/releases/download/v0.36.5/hl-windows.zip) | 3.0 MiB | `native/win/x64` |
 
-## Distribution status
-
-Reported by **14** distros on [repology.org](https://repology.org/project/hl). **5** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Arch | `0.36.3` | ⚠️ outdated |
-| Homebrew | `0.36.5` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for hl lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `hl` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -86,4 +77,4 @@ Install metadata for hl lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T09:17:25Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T09:29:07Z._

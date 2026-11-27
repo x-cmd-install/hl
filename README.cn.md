@@ -37,22 +37,22 @@ x install hl
 
 ## 流行度
 
-- **Star**: 3,343 · **Fork**: 70 · **开放 issue**: 122 · **贡献者**: 13
+- **Star**: 3,342 · **Fork**: 70 · **开放 issue**: 126 · **贡献者**: 13
 
 ## 累计统计
 
-- **发布数**: 129 · **已合并 PR**: 1522 · **开放 PR**: 8 · **已关闭 issue**: 55 · **开放 issue**: 67 · **提交数**: 1809
+- **发布数**: 129 · **已合并 PR**: 1522 · **开放 PR**: 12 · **已关闭 issue**: 55 · **开放 issue**: 71 · **提交数**: 1809
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 0 | 49 | 4 | 1 | 42 | 0 |
-| last60d | 2026-09-27 | 2 | 122 | 6 | 5 | 59 | 34 |
-| 90d | 2026-08-28 | 2 | 149 | 6 | 5 | 59 | 63 |
-| last180d | 2026-05-30 | 3 | 238 | 6 | 9 | 61 | 152 |
-| 360d | 2025-12-01 | 16 | 487 | 7 | 18 | 63 | 427 |
-| last720d | 2024-12-06 | 30 | 999 | 7 | 34 | 66 | 962 |
+| 30d | 2026-10-28 | 0 | 49 | 8 | 1 | 46 | 0 |
+| last60d | 2026-09-28 | 2 | 120 | 10 | 5 | 63 | 34 |
+| 90d | 2026-08-29 | 2 | 149 | 10 | 5 | 63 | 63 |
+| last180d | 2026-05-31 | 3 | 238 | 10 | 9 | 65 | 152 |
+| 360d | 2025-12-02 | 16 | 487 | 11 | 18 | 67 | 427 |
+| last720d | 2024-12-07 | 30 | 999 | 11 | 34 | 70 | 961 |
 
 ## Release 资产
 
@@ -68,15 +68,6 @@ x install hl
 | [hl-windows-arm64.zip](https://github.com/pamburus/hl/releases/download/v0.36.5/hl-windows-arm64.zip) | 2.8 MiB | `native/win/arm64` |
 | [hl-windows.zip](https://github.com/pamburus/hl/releases/download/v0.36.5/hl-windows.zip) | 3.0 MiB | `native/win/x64` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/hl) 上共有 **14** 个发行版报告此项目。**5** 个 ✅ 已是最新上游版本，**6** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Arch | `0.36.3` | ⚠️ outdated |
-| Homebrew | `0.36.5` | ✅ latest |
-
 ## 改进这些数据
 
 hl 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `hl` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -86,4 +77,4 @@ hl 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261126.yml` · 2026-11-26T09:17:25Z._
+_数据快照: `data/card/261127.yml` · 2026-11-27T09:29:08Z._
